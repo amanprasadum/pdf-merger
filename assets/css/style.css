@@ -239,7 +239,7 @@
 
         /* Main App Container */
         .app-container {
-            margin: 4rem 0;
+            /* margin: 4rem 0; */
             /* Consistent margin */
             position: relative;
             z-index: 15;
