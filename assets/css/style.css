@@ -261,6 +261,7 @@
         /* Upload Zone */
         .upload-zone {
             border: 3px dashed rgba(255, 255, 255, 0.3);
+            color: #ffffff;
             border-radius: 25px;
             padding: 4rem 2rem;
             text-align: center;
